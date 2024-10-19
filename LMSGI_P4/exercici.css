@@ -1,0 +1,68 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+table, tr, td {
+    border:1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 20px;
+}
+h1 {
+    text-align: center;
+    color: rgb(181, 118, 240);
+    font-weight: bold;
+}
+caption {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    color: rgb(233, 185, 53);
+}
+tr:first-child {
+    background-color: rgb(198, 221, 162);
+    width: 100px;
+    font-weight: bold;
+}
+.lmgsi {
+    background-color: deeppink;
+}
+.bd{
+    background-color: yellow;
+}
+.ped {
+    background-color: violet;
+}
+.si {
+    background-color: silver;
+}
+.diw{
+    background-color: orange;
+}
+.tut{
+    background-color: rgb(88, 209, 19);
+}
+.ipqi {
+    background-color: moccasin;
+}
+.an {
+    background-color: lightseagreen;
+}
+.descans {
+    font-size: 20px;
+    padding: 15px;
+}
+.hora {
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
+}
+.dia{
+    padding: 30px;
+    font-size: 25px;
+}
